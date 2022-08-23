@@ -3,23 +3,26 @@
 
 ~~~
 {}{img_left}{thumbnail_IMG_20211209_192259.jpg}{alt text}{320}{240}
-Yuxuan Wan \[[https://scholar.google.com/citations?user=jTwbiScAAAAJ&hl=en/ Google Scholar]\] \[[https://www.linkedin.com/mwlite/in/yuxuan-wan-210999158/ Linkedin]\] \[[./CV_Wan.pdf CV]\]
-
+Yuxuan Wan \[[https://scholar.google.com/citations?user=jTwbiScAAAAJ&hl=en/ Google Scholar]\] \[[https://www.linkedin.com/mwlite/in/yuxuan-wan-210999158/ Linkedin]\] \[[./CV_Wan.pdf CV]\]\n
+\n
 PhD Student in CSE, Michigan State University\n
-
+\n
 Email: [wanyuxua@msu.edu] \n
 ~~~
 
 == About me
-I am a first year Ph.D. student in [http://dse.cse.msu.edu/ DSE lab]. I am fortunately advised by [https://www.cse.msu.edu/~tangjili/ Prof. Jiliang Tang].\n
-I received my bachelor's degree from Hong Kong University of Science and Technology (HKUST) in 2021.  
+I am a second year Ph.D. student in [http://dse.cse.msu.edu/ DSE lab]. I am fortunately advised by [https://www.cse.msu.edu/~tangjili/ Prof. Jiliang Tang].\n
+I received my bachelor's degree from The Hong Kong University of Science and Technology (HKUST) in 2021.  
 
 == Research
 My research interests include 
 - Adversarial Robustness
-- Privacy
+- Privacy-Preserving Machine Learning
 
 == Recent News 
-Wait for Good News...
+- 08/2022 Check out our KDD2022 tutorial [https://sites.google.com/view/kdd22-tutorial-adv-learn/ Towards Adversarial Learning: from Evasion Attacks to Poisoning Attacks]
+- 07/2022 I am invited to server as the PC member for AAAI 2023
+- 06/2022 I am invited to server as the PC member for WSDM 2023
+- 06/2022 New preprint [https://arxiv.org/abs/2206.00769 Defense Against Gradient Leakage Attacks via Learning to Obscure Data]
 
 

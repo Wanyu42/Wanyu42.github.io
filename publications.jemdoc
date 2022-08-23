@@ -1,7 +1,15 @@
 # jemdoc: menu{MENU}{publications.html}
 ==Yuxuan Wan -- Publications 
 
-== 2021
+== Conference and Journal Publications
 - Empty...
 
+== Preprints
+- *Yuxuan Wan*, Han Xu, Xiaorui Liu, Jie Ren, Wenqi Fan, Jiliang Tang\n 
+ *Defense Against Gradient Leakage Attacks via Learning to Obscure Data* \[[https://arxiv.org/abs/2206.00769 pdf]\]\n
+ ArXiv: 2206.00769, 2022.
 
+== Tutorials
+- Wentao Wang, Han Xu, *Yuxuan Wan*, Jie Ren, Jiliang Tang\n 
+ *Towards Adversarial Learning: From Evasion Attacks to Poisoning Attacks* \[[https://sites.google.com/view/kdd22-tutorial-adv-learn/ website]\]\n 
+ In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022.
