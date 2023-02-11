@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}
-==Yuxuan Wan {{<span lang = "zh-hans">}}万宇轩{{</span>}}
+==Yuxuan Wan
 
 ~~~
 {}{img_left}{thumbnail_IMG_20211209_192259.jpg}{alt text}{320}{240}
-Yuxuan Wan \[[https://scholar.google.com/citations?user=jTwbiScAAAAJ&hl=en/ Google Scholar]\] \[[https://www.linkedin.com/mwlite/in/yuxuan-wan-210999158/ Linkedin]\] \[[./CV_Wan.pdf CV]\]\n
+Yuxuan Wan {{<span lang = "zh-hans">}}万宇轩{{</span>}} \[[https://scholar.google.com/citations?user=jTwbiScAAAAJ&hl=en/ Google Scholar]\] \[[https://www.linkedin.com/mwlite/in/yuxuan-wan-210999158/ Linkedin]\] \[[./CV_Wan.pdf CV]\]\n
 \n
 PhD Student in CSE, Michigan State University\n
 \n
@@ -20,6 +20,7 @@ My research interests include
 - Privacy-Preserving Machine Learning
 
 == Recent News 
+- 01/2023 Our paper [https://arxiv.org/pdf/2210.10114 Transferable Unlearnable Examples] is accepted by ICLR 2023
 - 08/2022 Check out our KDD2022 tutorial [https://sites.google.com/view/kdd22-tutorial-adv-learn/ Towards Adversarial Learning: from Evasion Attacks to Poisoning Attacks]
 - 07/2022 I am invited to server as the PC member for AAAI 2023
 - 06/2022 I am invited to server as the PC member for WSDM 2023

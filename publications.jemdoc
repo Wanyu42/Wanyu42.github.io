@@ -2,14 +2,24 @@
 ==Yuxuan Wan -- Publications 
 
 == Conference and Journal Publications
-- Empty...
+-  *Transferable Unlearnable Examples* \[[https://arxiv.org/pdf/2210.10114 pdf]\]\n
+ Jie Ren, Han Xu, *Yuxuan Wan*, Xingjun Ma, Lichao Sun, Jiliang Tang\n 
+ International Conference on Learning Representations (ICLR), 2023.
 
 == Preprints
-- *Yuxuan Wan*, Han Xu, Xiaorui Liu, Jie Ren, Wenqi Fan, Jiliang Tang\n 
- *Defense Against Gradient Leakage Attacks via Learning to Obscure Data* \[[https://arxiv.org/abs/2206.00769 pdf]\]\n
+- *Probabilistic Categorical Adversarial Attack & Adversarial Training* \[[https://arxiv.org/abs/2210.09364 pdf]\]\n
+ Pengfei He, Han Xu, Jie Ren, *Yuxuan Wan*, Zitao Liu, Jiliang Tang\n
+ ArXiv:2210.09364, 2022
+
+- *Towards Fair Classification against Poisoning Attacks* \[[https://arxiv.org/abs/2210.09503 pdf]\]\n
+ Han Xu, Xiaorui Liu, *Yuxuan Wan*, Jiliang Tang\n
+ ArXiv: 2210.09503, 2022
+
+- *Defense Against Gradient Leakage Attacks via Learning to Obscure Data* \[[https://arxiv.org/abs/2206.00769 pdf]\]\n
+ *Yuxuan Wan*, Han Xu, Xiaorui Liu, Jie Ren, Wenqi Fan, Jiliang Tang\n 
  ArXiv: 2206.00769, 2022.
 
 == Tutorials
-- Wentao Wang, Han Xu, *Yuxuan Wan*, Jie Ren, Jiliang Tang\n 
- *Towards Adversarial Learning: From Evasion Attacks to Poisoning Attacks* \[[https://sites.google.com/view/kdd22-tutorial-adv-learn/ website]\]\n 
+- *Towards Adversarial Learning: From Evasion Attacks to Poisoning Attacks* \[[https://sites.google.com/view/kdd22-tutorial-adv-learn/ website]\]\n 
+ Wentao Wang, Han Xu, *Yuxuan Wan*, Jie Ren, Jiliang Tang\n 
  In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022.
